@@ -30,12 +30,12 @@ Contains GRC assignments created during my time as a Masters student at WGU. The
 ### Featured Assignments
 
 #### AI in Cyber - Proposal
-![AI in Cyber](https://i.imgur.com/MzgtykH.png)
+<img src="https://i.imgur.com/MzgtykH.png" alt="AI in Cyber" width="400">
 
 An in-depth proposal exploring the implications of AI in cybersecurity, including potential benefits and risks.
 
 #### On-premise to Cloud
-![On-premise to Cloud](https://i.imgur.com/K504y9g.png)
+<img src="https://i.imgur.com/K504y9g.png" alt="On-premise to Cloud" width="300">
 
 A comprehensive analysis of the transition from on-premise infrastructures to cloud solutions, highlighting security considerations and best practices.
 
@@ -44,3 +44,4 @@ A comprehensive analysis of the transition from on-premise infrastructures to cl
 ### Contact
 
 For more information, please visit my [GitHub Profile](https://github.com/SkerdH) or connect with me on [LinkedIn](https://www.linkedin.com/in/skerdilaid-hoti).
+
