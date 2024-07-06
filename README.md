@@ -1,6 +1,6 @@
 # GRC - ESSAYS
 
-![GRC](https://via.placeholder.com/800x200.png?text=Governance+Risk+and+Compliance+Essays)
+![GRC](https://i.imgur.com/5RRAMy4.png)
 
 ## Description
 
@@ -30,12 +30,12 @@ Contains GRC assignments created during my time as a Masters student at WGU. The
 ### Featured Assignments
 
 #### AI in Cyber - Proposal
-![AI in Cyber](https://via.placeholder.com/400x200.png?text=AI+in+Cyber)
+![AI in Cyber](https://i.imgur.com/MzgtykH.png)
 
 An in-depth proposal exploring the implications of AI in cybersecurity, including potential benefits and risks.
 
 #### On-premise to Cloud
-![On-premise to Cloud](https://via.placeholder.com/400x200.png?text=On-premise+to+Cloud)
+![On-premise to Cloud](https://i.imgur.com/K504y9g.png)
 
 A comprehensive analysis of the transition from on-premise infrastructures to cloud solutions, highlighting security considerations and best practices.
 
